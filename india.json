@@ -1,4 +1,7 @@
 {
+     "title": {
+        text: 'Historic and Estimated Worldwide Population Growth by India'
+         
     "categoriesdata": [ "1750", "1800", "1850", "1900", "1950", "1999", "2050" ],
     "seriesdata": [
         {
